@@ -1,0 +1,11 @@
+h3 {
+  color: red;
+}
+h4 {
+  color: green
+}
+
+#notas {
+  display: flex;
+  flex-direction: column-reverse;
+}
